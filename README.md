@@ -2,9 +2,9 @@
 
 Live example hosted on server :
 
-http://leedavidsoncontentmanagementsystem1.com/public_html_2/index.php
+http://vs1toronto.com/public_html_2/pages.home
 
 
 User journey showcasing functionality :
 
-https://www.behance.net/gallery/66660007/Debenhams-Store-Search-Application
+https://www.behance.net/gallery/66660007/Php-Laravel-Debenhams-Store-Search-Application
